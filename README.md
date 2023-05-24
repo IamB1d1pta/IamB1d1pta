@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Mern**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Android App Developement**
 
 - 📫  How to reach me  <a href="mailto:dasbidipta110@gmail.com" ><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="www.gmail.com" height="30" width="40" /></a>
 
